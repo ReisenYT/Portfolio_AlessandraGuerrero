@@ -14,14 +14,14 @@ div{
         border-radius: 70%;
         box-shadow: 3px 3px 3px grey;
         left: 2%;
-        top: 380px;
+        top: 340px;
     }
 }
 
 @media (max-width: 575px){
     #fotoperf{
         position:absolute;
-        width: 12%;
+        width: 18%;
         border-radius: 70%;
         box-shadow: 3px 3px 3px grey;
         left: 43%;
